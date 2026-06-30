@@ -1,0 +1,20 @@
+[
+    {
+        "full_name": "Admin Admin",
+        "email": "admin@ikarrental.hu",
+        "password": "$2y$12$Wt9r25VtGlkxWa.B5wB6b.N08wywq0gsg9hZ1U4iLi6e0KK47.6NC",
+        "is_admin": true
+    },
+    {
+        "full_name": "Elena Plesu",
+        "email": "plesu.elena.uni@gmail.com",
+        "password": "$2y$12$6Pr.QxArsOznW4ZK6m60JeoTXc5niZn8k3mUWgiLTvo0yvQ.\/giG2",
+        "is_admin": false
+    },
+    {
+        "full_name": "Elena Plesu2",
+        "email": "hellen.plesu444@gmail.com",
+        "password": "$2y$12$91PdXoWS7p6YL0kihfKabuFXZfzS6lhwdIiAEPvWWfZnO45drYzAC",
+        "is_admin": false
+    }
+]
